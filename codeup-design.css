@@ -1,0 +1,75 @@
+h1 {
+    margin-top: 1em;
+    font-size: 3em;
+    margin-bottom: 1em;
+    font-weight: bold;
+    text-transform: uppercase ;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+
+.row,  {
+    width: 500px;
+    height: 500px;
+    line-height: 500px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    /*background: #000;*/
+    align-content: space-evenly;
+    display: flex;
+}
+
+.id\=circle {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    background: #000;
+    justify-content: space-evenly;
+
+}
+
+hr {
+    margin: 1em;
+}
+
+.id{
+    margin-left: 5em;
+}
+
+.id\=circle-2 {
+    width: 10px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+    font-size: 10px;
+    color: #fff;
+    text-align: center;
+    background: #000;
+    justify-content: space-evenly;
+
+}
+
+h5 {
+    font-size: 15px;
+}
+
+#photo-selection {
+    margin-top: 3em;
+    margin-bottom: 10em;
+    margin-left: 20em;
+}
+
+.titles-text-wrap {
+    font-weight: bolder;
+}
